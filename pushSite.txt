@@ -1,0 +1,8 @@
+POST /urls?site=www.scbsxc.cn&token=UdeqSxOQy2hJVQVRHTTP/1.1
+User-Agent: curl/7.12.1
+Host: data.zz.baidu.com
+Content-Type: text/plain
+Content-Length: 83
+http://www.scbsxc.cn/index.html
+http://www.scbsxc.cn/a/about/index.html
+http://www.scbsxc.cn/a/products/index.html	
